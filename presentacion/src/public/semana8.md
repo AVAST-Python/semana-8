@@ -2,7 +2,7 @@
 
 # Introducción a Python
 
-## Semana 7
+## Semana 8
 <!-- .element style="text-align:center" -->
 
 ![alt text](./img/logo2.png) <!-- .element style="margin-left: auto; margin-right: auto; display: block" -->
@@ -85,22 +85,6 @@ Los nombres dados son siempre cadenas válidas.
 
 [Enlace Kata](https://www.codewars.com/kata/53af2b8861023f1d88000832)
 
-
----
-
-# ¿Cómo de buena eres realmente?
-
-Había un examen en tu clase y lo has aprobado. ¡Enhorabuena!
-
-Pero eres una persona ambiciosa. Quieres saber si eres mejor que el alumno medio de tu clase.
-
-Recibes las puntuaciones de los exámenes de tus compañeros. Ahora calcula la media y compara tu puntuación.
-Devuelve `True` si eres mejor, si no, `False`.
-
-<div></div> <!-- .element style="height: 200px" -->
-
-[Enlace Kata](https://www.codewars.com/kata/5601409514fc93442500010b)
-
 ---
 
 # Una aguja en el pajar
@@ -119,3 +103,18 @@ Ejemplo:
 <div></div> <!-- .element style="height: 200px" -->
 
 [Enlace Kata](https://www.codewars.com/kata/56676e8fabd2d1ff3000000c)
+
+---
+
+# ¿Cómo de buena eres realmente?
+
+Había un examen en tu clase y lo has aprobado. ¡Enhorabuena!
+
+Pero eres una persona ambiciosa. Quieres saber si eres mejor que el alumno medio de tu clase.
+
+Recibes las puntuaciones de los exámenes de tus compañeros. Ahora calcula la media y compara tu puntuación.
+Devuelve `True` si eres mejor, si no, `False`.
+
+<div></div> <!-- .element style="height: 200px" -->
+
+[Enlace Kata](https://www.codewars.com/kata/5601409514fc93442500010b)
