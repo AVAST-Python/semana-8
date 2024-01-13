@@ -66,6 +66,13 @@ Piensa qué columna vas a utilizar como índice. Tienes ejemplos de carga en el 
 </ul>
 </details>
 
+--
+
+# POO Python
+
+- [Introducción a POO con ejemplos en Python](https://www.youtube.com/watch?v=iliKayKaGtc&ab_channel=Programaci%C3%B3nDesdeCero)
+
+
 ---
 
 # ¿Estás tocando el banjo?
